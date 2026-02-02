@@ -7,7 +7,7 @@ See Confluence -- "Adding Spidertracks API to TAK server" for the rest of the in
 
 # Rocky/Rhel
       sudo dnf install git
-      sudo clone https://github.com/SlateIntegrations-git/Spidertracks-Python-Script.git
+      git clone https://github.com/SlateIntegrations-git/Spidertracks-Python-Script.git && cd Spidertracks-Python-Script
 # Ubuntu
       sudo apt install git
-      sudo clone https://github.com/SlateIntegrations-git/Spidertracks-Python-Script.git
+      git clone https://github.com/SlateIntegrations-git/Spidertracks-Python-Script.git && cd Spidertracks-Python-Script
