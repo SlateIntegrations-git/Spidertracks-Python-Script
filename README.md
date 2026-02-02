@@ -4,11 +4,11 @@ Python script to fetch aircraft locations from the Spidertracks API and then con
 # See Confluence -- "Adding Spidertracks API to TAK server" for the rest of the installation instructions.
 
 
-# Install the Script
+# Install the Script:
 
 # Rocky/Rhel
       sudo dnf install git
-      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-pycot.git && cd script-Spidertracks-pycot
+      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-pycot.git
 # Ubuntu
       sudo apt install git
-      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-pycot.git && cd script-Spidertracks-pycot
+      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-pycot.git
